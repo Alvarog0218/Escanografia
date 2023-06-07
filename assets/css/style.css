@@ -552,6 +552,7 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+  z-index: -15;
 }
 .section-bl{
   background-color: white;
