@@ -416,7 +416,7 @@ h6 {
 #hero .container {
   padding-top: 72px;
   position: relative;
-  z-index: 99;
+  z-index: 0;
 }
 
 #hero h1 {
@@ -630,6 +630,7 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
