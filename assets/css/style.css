@@ -401,8 +401,8 @@ h6 {
 --------------------------------------------------------------*/
 
 #particles-js {
-  width: 100vh;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   position:fixed;
   z-index:0;
   background:#37517e;
