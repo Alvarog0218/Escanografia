@@ -401,7 +401,7 @@ h6 {
 --------------------------------------------------------------*/
 #particles-js {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   position: fixed;
   z-index: -1;
   background:#37517e;
@@ -413,11 +413,10 @@ h6 {
   /*background-image: url(/assets/img/fondoabs.jpg);*/
 }
 
-#hero .containerhero {
+#hero .container {
   padding-top: 72px;
   position: relative;
   z-index: 0;
-  background: #37517e;
 }
 
 #hero h1 {
