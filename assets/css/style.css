@@ -413,10 +413,11 @@ h6 {
   /*background-image: url(/assets/img/fondoabs.jpg);*/
 }
 
-#hero .container {
+#hero .containerhero {
   padding-top: 72px;
   position: relative;
   z-index: 0;
+  background: #37517e;
 }
 
 #hero h1 {
