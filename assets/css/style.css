@@ -556,9 +556,11 @@ section {
 }
 .section-bl{
   background-color: white;
+  z-index: 1;
 }
 .section-bg {
   background-color: #f3f5fa;
+  z-index: 2;
 }
 
 .section-title {
