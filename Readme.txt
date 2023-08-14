@@ -1,5 +1,5 @@
 Proyecto creado para Escanografia SA
 
-Empresa de radiologia dedicada a la toma de imagenes como Resonancia magnetica, tomografia computarizada, radiografia, densitometria osea, pletismografia
+Empresa de radiologia dedicada a la toma de imagenes como Resonancia magnetica, tomografia, radiografia, densitometria
 
-Proyecto desarrollado por Alvaro Gomez
+Desarrollado por Alvaro Gomez
