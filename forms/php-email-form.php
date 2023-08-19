@@ -7,7 +7,7 @@ if (isset($_POST['enviar'])) {
 
 	// Formatear el correo electrónico
 	$para = 'alvarog0218@gmail.com'; // Reemplazar con la dirección de correo electrónico del destinatario
-	$titulo = 'Solicitud de cita por pagina web';
+	$titulo = 'Solicitud por pagina web';
 	$contenido = "Nombre: $nombre\nCorreo: $correo\nAsunto: $asunto\nMensaje: $mensaje";
 
 	// Enviar el correo electrónico
